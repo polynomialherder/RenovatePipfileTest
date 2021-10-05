@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [dev-packages]
-pygithub = "==1.55"
+PyGithub = "==1.55"
 
 [requires]
 full_python_version = "3.8.10"
